@@ -1,0 +1,1 @@
+# This is my learning path for the language programming Golang. I am going to code a blockchain from scratch.
